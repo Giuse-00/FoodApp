@@ -52,4 +52,5 @@ class SubCategoryAdapter : RecyclerView.Adapter<SubCategoryAdapter.RecipeViewHol
     interface OnItemClickListener{
         fun onClicked(id: String)
     }
+
 }
